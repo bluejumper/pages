@@ -1,7 +1,7 @@
 # Ben's documents
 
 A collection of documents exploring computer topics.  
-Their purpose is to refresh a memory about a subject.
+They intend to convey an understanding that others could find useful.
 
 The notes employ a Three's Complexity model. Some documents explore as far as
 three paragraphs whereas a larger document might expand each paragraph further.
