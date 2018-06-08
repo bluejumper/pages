@@ -15,3 +15,4 @@ _Computer Organisation and Design - RISC-V Edition_
 The relationship between hardware and software, exploring concepts in current
 computers.  
 [classes_of_computers](pages/classes_of_computers.md)
+[embedded_computers](pages/embedded_computers.md)
