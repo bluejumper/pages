@@ -29,7 +29,8 @@ occur in an plane or a *smart door-lock*.
 
 (further)  
 [https://en.wikipedia.org/wiki/Reduced_instruction_set_computer]  
-[https://www.sifive.com/products/freedom/] \(included by choice)  
+[https://riscv.org/]  
+[https://riscv.org/risc-v-cores/] \(you will find something useful here)
 
 (insight)  
 Do not overlook the power demands of an embedded computer system. In the
