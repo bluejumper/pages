@@ -16,3 +16,4 @@ The relationship between hardware and software, exploring concepts in current
 computers.  
 [classes_of_computers](pages/classes_of_computers.md)
 [embedded_computers](pages/embedded_computers.md)
+[from_program_to_executable](pages/from_program_to_executable.md)
